@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database>
+  <Car id="01" name="Toyota Aygo 1.1">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>90000.0</periodicity>
+        <price>550.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>0.0</periodicity>
+        <price>110.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>4.6</consumption>
+    <driver>builder</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>380.0</insuranceprice>
+    <name>Toyota Aygo 1.1</name>
+    <price>10600.0</price>
+    <tanksize>37.0</tanksize>
+  </Car>
+  <Car id="02" name="Dacia Logan 1.5 dci">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>80000.0</periodicity>
+        <price>450.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>20000.0</periodicity>
+        <price>80.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>5.4</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>350.0</insuranceprice>
+    <name>Dacia Logan 1.5 dci</name>
+    <price>12500.0</price>
+    <tanksize>52.0</tanksize>
+  </Car>
+  <Car id="03" name="Dacia Sandero 1.2">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>80000.0</periodicity>
+        <price>500.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>20000.0</periodicity>
+        <price>100.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>7.3</consumption>
+    <driver>builder</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>350.0</insuranceprice>
+    <name>Dacia Sandero 1.2</name>
+    <price>10500.0</price>
+    <tanksize>57.0</tanksize>
+  </Car>
+  <Car id="04" name="Fiat Panda 1.3 d">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>0.0</periodicity>
+        <price>650.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Vidange">
+        <name>Vidange</name>
+        <periodicity>15000.0</periodicity>
+        <price>150.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>4.2</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>500.0</insuranceprice>
+    <name>Fiat Panda 1.3 d</name>
+    <price>11600.0</price>
+    <tanksize>37.0</tanksize>
+  </Car>
+  <Car id="05" name="Fiat Punto Evo 1.3 d">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>90000.0</periodicity>
+        <price>500.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>30000.0</periodicity>
+        <price>200.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>4.1</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>500.0</insuranceprice>
+    <name>Fiat Punto Evo 1.3 d</name>
+    <price>14690.0</price>
+    <tanksize>50.0</tanksize>
+  </Car>
+  <Car id="06" name="Renaut Clio Campus 1.5">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>120000.0</periodicity>
+        <price>0.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>20000.0</periodicity>
+        <price>350.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>5.2</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>450.0</insuranceprice>
+    <name>Renaut Clio Campus 1.5</name>
+    <price>11500.0</price>
+    <tanksize>52.0</tanksize>
+  </Car>
+  <Car id="07" name="Skoda Fabia 1.2 e">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>90000.0</periodicity>
+        <price>750.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>15000.0</periodicity>
+        <price>120.0</price>
+      </Wearpart>
+      <Wearpart id="03" name="Plaquettes Avant">
+        <name>Plaquettes Avant</name>
+        <periodicity>100000.0</periodicity>
+        <price>135.0</price>
+      </Wearpart>
+      <Wearpart id="04" name="Disques Avant">
+        <name>Disques Avant</name>
+        <periodicity>200000.0</periodicity>
+        <price>150.0</price>
+      </Wearpart>
+      <Wearpart id="05" name="Amortisseurs Avant">
+        <name>Amortisseurs Avant</name>
+        <periodicity>200000.0</periodicity>
+        <price>465.0</price>
+      </Wearpart>
+      <Wearpart id="06" name="Amortisseurs Arrière">
+        <name>Amortisseurs Arrière</name>
+        <periodicity>200000.0</periodicity>
+        <price>275.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>5.9</consumption>
+    <driver>Pierre</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>534.0</insuranceprice>
+    <name>Skoda Fabia 1.2 e</name>
+    <price>12500.0</price>
+    <tanksize>43.0</tanksize>
+  </Car>
+  <Car id="08" name="Renault Clio III essence 75 ch">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>90000.0</periodicity>
+        <price>500.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>30000.0</periodicity>
+        <price>200.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>5.8</consumption>
+    <driver>builder</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>500.0</insuranceprice>
+    <name>Renault Clio III essence 75 ch</name>
+    <price>8000.0</price>
+    <tanksize>55.0</tanksize>
+  </Car>
+  <Car id="09" name="Fiat Panda 1.2 e">
+    <consumption>4.9</consumption>
+    <driver>builder</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>500.0</insuranceprice>
+    <name>Fiat Panda 1.2 e</name>
+    <price>9350.0</price>
+    <tanksize>37.0</tanksize>
+  </Car>
+  <Car id="10" name="Fiat Punto Evo 1.2 e">
+    <consumption>5.2</consumption>
+    <driver>builder</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>0.0</insuranceprice>
+    <name>Fiat Punto Evo 1.2 e</name>
+    <price>12390.0</price>
+    <tanksize>0.0</tanksize>
+  </Car>
+  <Car id="11" name="Skoda Fabia 1.4 TDI">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>90000.0</periodicity>
+        <price>750.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>15000.0</periodicity>
+        <price>120.0</price>
+      </Wearpart>
+      <Wearpart id="03" name="Plaquettes Avant">
+        <name>Plaquettes Avant</name>
+        <periodicity>100000.0</periodicity>
+        <price>135.0</price>
+      </Wearpart>
+      <Wearpart id="04" name="Disques Avant">
+        <name>Disques Avant</name>
+        <periodicity>200000.0</periodicity>
+        <price>150.0</price>
+      </Wearpart>
+      <Wearpart id="05" name="Amortisseurs Avant">
+        <name>Amortisseurs Avant</name>
+        <periodicity>200000.0</periodicity>
+        <price>465.0</price>
+      </Wearpart>
+      <Wearpart id="06" name="Amortisseurs Arrière">
+        <name>Amortisseurs Arrière</name>
+        <periodicity>200000.0</periodicity>
+        <price>275.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>4.7</consumption>
+    <driver>Pierre</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>534.0</insuranceprice>
+    <name>Skoda Fabia 1.4 TDI</name>
+    <price>14800.0</price>
+    <tanksize>43.0</tanksize>
+  </Car>
+  <Car id="12" name="Toyota Yaris">
+    <Wearparts>
+      <Wearpart id="01" name="vidange">
+        <name>vidange</name>
+        <periodicity>15000.0</periodicity>
+        <price>320.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="pneus">
+        <name>pneus</name>
+        <periodicity>30000.0</periodicity>
+        <price>420.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>4.4</consumption>
+    <driver>builder</driver>
+    <fuel>diesel</fuel>
+    <insuranceprice>0.0</insuranceprice>
+    <name>Toyota Yaris</name>
+    <price>17000.0</price>
+    <tanksize>38.0</tanksize>
+  </Car>
+  <Car id="13" name="Dacia Logan 1.2">
+    <Wearparts>
+      <Wearpart id="01" name="Couroie">
+        <name>Couroie</name>
+        <periodicity>80000.0</periodicity>
+        <price>450.0</price>
+      </Wearpart>
+      <Wearpart id="02" name="Entretien">
+        <name>Entretien</name>
+        <periodicity>20000.0</periodicity>
+        <price>80.0</price>
+      </Wearpart>
+    </Wearparts>
+    <consumption>6.2</consumption>
+    <driver>Pierre</driver>
+    <fuel>essence</fuel>
+    <insuranceprice>350.0</insuranceprice>
+    <name>Dacia Logan 1.2</name>
+    <price>9500.0</price>
+    <tanksize>52.0</tanksize>
+  </Car>
+  <Fuel id="01" name="GPL">
+    <name>GPL</name>
+    <price>0.798</price>
+  </Fuel>
+  <Fuel id="02" name="essence">
+    <name>essence</name>
+    <price>1.529</price>
+  </Fuel>
+  <Fuel id="03" name="diesel">
+    <name>diesel</name>
+    <price>1.389</price>
+  </Fuel>
+  <Fuel id="04" name="Gaz">
+    <name>Gaz</name>
+    <price>0.2</price>
+  </Fuel>
+  <Driver id="01" name="AutoPlus">
+    <drivertype>normal</drivertype>
+    <kmperyear>25000.0</kmperyear>
+    <maxkilometers>201000.0</maxkilometers>
+    <name>AutoPlus</name>
+  </Driver>
+  <Driver id="02" name="builder">
+    <drivertype>builder</drivertype>
+    <kmperyear>30000.0</kmperyear>
+    <maxkilometers>601000.0</maxkilometers>
+    <name>builder</name>
+  </Driver>
+  <Driver id="03" name="Bourin">
+    <drivertype>verynervous</drivertype>
+    <kmperyear>18000.0</kmperyear>
+    <maxkilometers>171000.0</maxkilometers>
+    <name>Bourin</name>
+  </Driver>
+  <Driver id="04" name="Pierre">
+    <drivertype>thrifty</drivertype>
+    <kmperyear>43000.0</kmperyear>
+    <maxkilometers>301000.0</maxkilometers>
+    <name>Pierre</name>
+  </Driver>
+  <Driver id="05" name="Débile">
+    <drivertype>crazydriving</drivertype>
+    <kmperyear>18000.0</kmperyear>
+    <maxkilometers>171000.0</maxkilometers>
+    <name>Débile</name>
+  </Driver>
+  <Drivertype id="01" name="dry">
+    <drivingcoefficient>1.15</drivingcoefficient>
+    <name>dry</name>
+  </Drivertype>
+  <Drivertype id="02" name="normal">
+    <drivingcoefficient>1.1</drivingcoefficient>
+    <name>normal</name>
+  </Drivertype>
+  <Drivertype id="03" name="nervous">
+    <drivingcoefficient>1.25</drivingcoefficient>
+    <name>nervous</name>
+  </Drivertype>
+  <Drivertype id="04" name="builder">
+    <drivingcoefficient>1.0</drivingcoefficient>
+    <name>builder</name>
+  </Drivertype>
+  <Drivertype id="05" name="verynervous">
+    <drivingcoefficient>1.35</drivingcoefficient>
+    <name>verynervous</name>
+  </Drivertype>
+  <Drivertype id="06" name="thrifty">
+    <drivingcoefficient>0.89</drivingcoefficient>
+    <name>thrifty</name>
+  </Drivertype>
+  <Drivertype id="07" name="crazydriving">
+    <drivingcoefficient>1.5</drivingcoefficient>
+    <name>crazydriving</name>
+  </Drivertype>
+</database>
